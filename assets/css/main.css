@@ -1,1 +1,23 @@
-
+/* splash format */
+.preloader {
+  background-image: url(../../assets/img/splash.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-clip: border-box;
+	background-position: top;
+  height: 100vh;
+}
+/* sign section */
+.sign {
+  background-image: url(../../assets/img/lyft2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-clip: border-box;
+	background-position: top;
+  height: 100vh;
+}
+/* button format */
+.mybutton {
+  display: inline-block;
+  background: transparent;
+}
